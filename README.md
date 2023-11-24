@@ -32,15 +32,17 @@
 <img src= "https://cdn-icons-png.flaticon.com/128/12730/12730471.png" title="Soldering" alt="Soldering" width="40" height="40"/>&nbsp;
 <img src= "https://cdn-icons-png.flaticon.com/128/5059/5059316.png" title="MIG_TIG_Weldering" alt="MIG_TIG_Weldering" width="40" height="40"/>&nbsp;
 <img src= "https://cdn-icons-png.flaticon.com/128/2649/2649783.png" title="Meteorology" alt="Meteorology" width="40" height="40"/>&nbsp;
-<img src= "https://cdn-icons-png.flaticon.com/128/1925/1925629.png" title="Hydroponics" alt="Hydroponics" width="40" height="40"/>&nbsp;
-<img src= "https://cdn-icons-png.flaticon.com/128/2173/2173832.png" title="Family" alt="Family" width="40" height="40"/>&nbsp;
 <img src= "https://cdn-icons-png.flaticon.com/128/12893/12893053.png" title="Trail_run" alt="Trail_run" width="40" height="40"/>&nbsp;
-<img src= "https://cdn-icons-png.flaticon.com/128/450/450064.png" title="Cooking" alt="Cooking" width="40" height="40"/>&nbsp;
-
-
 </div>
 
 <!--
+
+<img src= "https://cdn-icons-png.flaticon.com/128/1925/1925629.png" title="Hydroponics" alt="Hydroponics" width="40" height="40"/>&nbsp;
+<img src= "https://cdn-icons-png.flaticon.com/128/2173/2173832.png" title="Family" alt="Family" width="40" height="40"/>&nbsp;
+<img src= "https://cdn-icons-png.flaticon.com/128/450/450064.png" title="Cooking" alt="Cooking" width="40" height="40"/>&nbsp;
+
+
+
 
 https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain.svg
 https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg
