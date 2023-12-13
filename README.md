@@ -42,11 +42,11 @@
 <img src= "https://w7.pngwing.com/pngs/369/534/png-transparent-espressif-systems-hd-logo-thumbnail.png" title="ESP32" alt="ESP32" width="40" height="40"/>&nbsp;
 <img src= "https://cdn-icons-png.flaticon.com/128/12730/12730471.png" title="Soldering" alt="Soldering" width="40" height="40"/>&nbsp;
 <img src= "https://cdn-icons-png.flaticon.com/128/5059/5059316.png" title="MIG_TIG_Weldering" alt="MIG_TIG_Weldering" width="40" height="40"/>&nbsp;
-<img src= "https://cdn-icons-png.flaticon.com/128/2649/2649783.png" title="Meteorology" alt="Meteorology" width="40" height="40"/>&nbsp;
 </div>
 
 
 <!--
+<img src= "https://cdn-icons-png.flaticon.com/128/2649/2649783.png" title="Meteorology" alt="Meteorology" width="40" height="40"/>&nbsp;
 <img src= "https://cdn-icons-png.flaticon.com/128/12893/12893053.png" title="Trail_run" alt="Trail_run" width="40" height="40"/>&nbsp;
 
 <img src= "https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
